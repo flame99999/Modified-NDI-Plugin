@@ -1,0 +1,6 @@
+﻿  Callback.cpp
+d:\work\git\klakndi\plugin\include\unity\iunityrenderingextensions.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  PluginEntry.cpp
+  Generating Code...
+     Creating library D:\work\Git\KlakNDI\Plugin\Windows\Win32\Debug\KlakNDI.lib and object D:\work\Git\KlakNDI\Plugin\Windows\Win32\Debug\KlakNDI.exp
+  KlakNDI.vcxproj -> D:\work\Git\KlakNDI\Plugin\Windows\Win32\Debug\KlakNDI.dll
