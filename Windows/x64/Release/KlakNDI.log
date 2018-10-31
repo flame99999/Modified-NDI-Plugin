@@ -1,8 +1,8 @@
 ﻿  Callback.cpp
-d:\work\git\ndi plugin\include\unity\iunityrenderingextensions.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\git\modified-ndi-plugin\include\unity\iunityrenderingextensions.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
   PluginEntry.cpp
-     Creating library D:\work\Git\NDI Plugin\Windows\x64\Release\KlakNDI.lib and object D:\work\Git\NDI Plugin\Windows\x64\Release\KlakNDI.exp
-  Generating code
-  All 353 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Finished generating code
-  KlakNDI.vcxproj -> D:\work\Git\NDI Plugin\Windows\x64\Release\KlakNDI.dll
+    正在创建库 D:\GIT\Modified-NDI-Plugin\Windows\x64\Release\KlakNDI.lib 和对象 D:\GIT\Modified-NDI-Plugin\Windows\x64\Release\KlakNDI.exp
+  正在生成代码
+  All 363 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  KlakNDI.vcxproj -> D:\GIT\Modified-NDI-Plugin\Windows\x64\Release\KlakNDI.dll

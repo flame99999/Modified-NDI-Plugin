@@ -52,10 +52,10 @@ extern "C" void UNITY_INTERFACE_EXPORT NDI_SyncSender(Sender* sender)
 
 // Receiver functions
 
-extern "C" Receiver UNITY_INTERFACE_EXPORT *NDI_TryOpenSourceNamedLike(const char* name)
+extern "C" Receiver UNITY_INTERFACE_EXPORT *NDI_TryOpenSourceNamedLike(const char* name, bool lowBandWidth)
 {
     auto source = Finder::getInstance().getSourceWithNameLike(name);
-    return source.p_ndi_name != nullptr ? new Receiver(source) : nullptr;
+    return source.p_ndi_name != nullptr ? new Receiver(source,lowBandWidth) : nullptr;
 }
 
 extern "C" const char UNITY_INTERFACE_EXPORT *NDI_GetIPAddress(Receiver* receiver) 

@@ -9,9 +9,16 @@ namespace KlakNDI
     {
     public:
 
-        Receiver(const NDIlib_source_t& source)
+        Receiver(const NDIlib_source_t& source, bool lowBandWidth)
         {
-            NDIlib_recv_create_v3_t create(source, NDIlib_recv_color_format_fastest);
+			NDIlib_recv_color_format_e colorFarmat;
+			if (lowBandWidth)
+				colorFarmat = NDIlib_recv_color_format_fastest;
+			else
+				colorFarmat = NDIlib_recv_color_format_UYVY_RGBA;
+			NDIlib_recv_create_v3_t create(source, colorFarmat);
+			if (lowBandWidth)
+				create.bandwidth = NDIlib_recv_bandwidth_lowest;
             instance_ = NDIlib_recv_create_v3(&create);
             id_ = generateID();
             getInstanceMap()[id_] = this;

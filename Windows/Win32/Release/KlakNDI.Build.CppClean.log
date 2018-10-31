@@ -1,24 +1,25 @@
-d:\git\klakndi\plugin\windows\win32\release\vc141.pdb
-d:\git\klakndi\plugin\windows\win32\release\pluginentry.obj
-d:\git\klakndi\plugin\windows\win32\release\callback.obj
-d:\git\klakndi\plugin\windows\win32\release\klakndi.lib
-d:\git\klakndi\plugin\windows\win32\release\klakndi.exp
-d:\git\klakndi\plugin\windows\win32\release\klakndi.ipdb
-d:\git\klakndi\plugin\windows\win32\release\klakndi.iobj
-d:\git\klakndi\plugin\windows\win32\release\klakndi.dll
-d:\git\klakndi\plugin\windows\win32\release\klakndi.pdb
-d:\work\git\ndi plugin\windows\win32\release\callback.obj
+d:\work\git\ndi plugin\windows\win32\release\vc141.pdb
 d:\work\git\ndi plugin\windows\win32\release\pluginentry.obj
+d:\work\git\ndi plugin\windows\win32\release\callback.obj
+d:\work\git\ndi plugin\windows\win32\release\klakndi.lib
+d:\work\git\ndi plugin\windows\win32\release\klakndi.exp
 d:\work\git\ndi plugin\windows\win32\release\klakndi.ipdb
 d:\work\git\ndi plugin\windows\win32\release\klakndi.iobj
-d:\work\git\ndi plugin\windows\win32\release\klakndi.exp
-d:\work\git\ndi plugin\windows\win32\release\klakndi.pdb
-d:\work\git\ndi plugin\windows\win32\release\vc141.pdb
 d:\work\git\ndi plugin\windows\win32\release\klakndi.dll
-d:\work\git\ndi plugin\windows\win32\release\klakndi.tlog\cl.command.1.tlog
-d:\work\git\ndi plugin\windows\win32\release\klakndi.tlog\cl.read.1.tlog
-d:\work\git\ndi plugin\windows\win32\release\klakndi.tlog\cl.write.1.tlog
-d:\work\git\ndi plugin\windows\win32\release\klakndi.tlog\klakndi.write.1u.tlog
-d:\work\git\ndi plugin\windows\win32\release\klakndi.tlog\link.command.1.tlog
-d:\work\git\ndi plugin\windows\win32\release\klakndi.tlog\link.read.1.tlog
-d:\work\git\ndi plugin\windows\win32\release\klakndi.tlog\link.write.1.tlog
+d:\work\git\ndi plugin\windows\win32\release\klakndi.pdb
+d:\git\modified-ndi-plugin\windows\win32\release\callback.obj
+d:\git\modified-ndi-plugin\windows\win32\release\pluginentry.obj
+d:\git\modified-ndi-plugin\windows\win32\release\klakndi.ipdb
+d:\git\modified-ndi-plugin\windows\win32\release\klakndi.iobj
+d:\git\modified-ndi-plugin\windows\win32\release\klakndi.exp
+d:\git\modified-ndi-plugin\windows\win32\release\klakndi.pdb
+d:\git\modified-ndi-plugin\windows\win32\release\vc141.pdb
+d:\git\modified-ndi-plugin\windows\win32\release\klakndi.dll
+d:\git\modified-ndi-plugin\windows\win32\release\klakndi.tlog\cl.command.1.tlog
+d:\git\modified-ndi-plugin\windows\win32\release\klakndi.tlog\cl.read.1.tlog
+d:\git\modified-ndi-plugin\windows\win32\release\klakndi.tlog\cl.write.1.tlog
+d:\git\modified-ndi-plugin\windows\win32\release\klakndi.tlog\klakndi.write.1u.tlog
+d:\git\modified-ndi-plugin\windows\win32\release\klakndi.tlog\link.command.1.tlog
+d:\git\modified-ndi-plugin\windows\win32\release\klakndi.tlog\link.delete.1.tlog
+d:\git\modified-ndi-plugin\windows\win32\release\klakndi.tlog\link.read.1.tlog
+d:\git\modified-ndi-plugin\windows\win32\release\klakndi.tlog\link.write.1.tlog
